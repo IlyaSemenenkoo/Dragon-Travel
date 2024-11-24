@@ -1,0 +1,479 @@
+fileFormatVersion: 2
+guid: 63dcaca324b7a96448c292f363405441
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: oNdL0D2 - Imgur_0
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 3549
+        width: 550
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884eceb89d399e845bd6161801b2fb2d
+      internalID: -1613551688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oNdL0D2 - Imgur_1
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 3613
+        width: 550
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d289150b4824fd448a688bff09c7a6f0
+      internalID: -719447075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oNdL0D2 - Imgur_2
+      rect:
+        serializedVersion: 2
+        x: 2237
+        y: 3517
+        width: 550
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3c750c142e8b848bc59a98f2ea0110
+      internalID: 1742833490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oNdL0D2 - Imgur_3
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2525
+        width: 550
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cfb3adc00141d42828917b184f958b
+      internalID: 844225294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oNdL0D2 - Imgur_4
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 2589
+        width: 550
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bc0e3269598f34b8e67154eb0b10f5
+      internalID: -185396627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oNdL0D2 - Imgur_5
+      rect:
+        serializedVersion: 2
+        x: 2237
+        y: 2493
+        width: 550
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbe515c7f8c63d4dae51e457513f45c
+      internalID: -35477445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oNdL0D2 - Imgur_6
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1501
+        width: 550
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30dae5496572938499a486053185da08
+      internalID: -929896249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oNdL0D2 - Imgur_7
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 1565
+        width: 550
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c311f3e3c51b047bcf08f0f0295104
+      internalID: -1261176269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oNdL0D2 - Imgur_8
+      rect:
+        serializedVersion: 2
+        x: 2237
+        y: 1469
+        width: 550
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ef4dd31eede8a4fa4a332c4d6cc184
+      internalID: -1291941667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oNdL0D2 - Imgur_9
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 413
+        width: 550
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a795a763168cb5d4d856ec30dec1b18d
+      internalID: -1845884897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oNdL0D2 - Imgur_10
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 477
+        width: 550
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e668ca5fbdab9548934d8fbe1647905
+      internalID: -647738287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oNdL0D2 - Imgur_11
+      rect:
+        serializedVersion: 2
+        x: 2237
+        y: 381
+        width: 550
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce265c77e981d34988f545c18d3d55c
+      internalID: -1584534325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: 698, y: -1498}
+      - {x: 698, y: -1670}
+      - {x: 1240, y: -1670}
+      - {x: 1254, y: -1632}
+      - {x: 1254, y: -1526}
+      - {x: 1186, y: -1498}
+    - - {x: -1350, y: -1466}
+      - {x: -1350, y: -1638}
+      - {x: -812, y: -1638}
+      - {x: -794, y: -1570}
+      - {x: -794, y: -1494}
+      - {x: -818, y: -1466}
+    - - {x: 172, y: -1574}
+      - {x: 230, y: -1506}
+      - {x: 230, y: -1448}
+      - {x: 212, y: -1402}
+      - {x: -326, y: -1402}
+      - {x: -326, y: -1574}
+      - {x: -214, y: -1574}
+      - {x: -186, y: -1538}
+      - {x: 52, y: -1574}
+    - - {x: 698, y: -410}
+      - {x: 698, y: -580}
+      - {x: 702, y: -582}
+      - {x: 1228, y: -582}
+      - {x: 1254, y: -576}
+      - {x: 1254, y: -438}
+      - {x: 1186, y: -410}
+    - - {x: -844, y: -550}
+      - {x: -794, y: -500}
+      - {x: -794, y: -428}
+      - {x: -844, y: -378}
+      - {x: -1350, y: -378}
+      - {x: -1350, y: -546}
+      - {x: -1346, y: -550}
+      - {x: -1246, y: -550}
+      - {x: -1210, y: -522}
+      - {x: -930, y: -550}
+    - - {x: 202, y: -314}
+      - {x: -326, y: -314}
+      - {x: -326, y: -486}
+      - {x: 202, y: -486}
+      - {x: 230, y: -464}
+      - {x: 230, y: -362}
+    - - {x: 1186, y: 614}
+      - {x: 1118, y: 614}
+      - {x: 1114, y: 610}
+      - {x: 1072, y: 614}
+      - {x: 698, y: 614}
+      - {x: 698, y: 442}
+      - {x: 1218, y: 442}
+      - {x: 1254, y: 484}
+      - {x: 1254, y: 546}
+      - {x: 1252, y: 552}
+    - - {x: -1350, y: 646}
+      - {x: -1350, y: 474}
+      - {x: -814, y: 474}
+      - {x: -794, y: 542}
+      - {x: -794, y: 600}
+      - {x: -826, y: 646}
+    - - {x: -326, y: 710}
+      - {x: -326, y: 538}
+      - {x: 206, y: 538}
+      - {x: 230, y: 594}
+      - {x: 230, y: 668}
+      - {x: 174, y: 710}
+    - - {x: 1186, y: 1638}
+      - {x: 1118, y: 1638}
+      - {x: 1114, y: 1634}
+      - {x: 1072, y: 1638}
+      - {x: 698, y: 1638}
+      - {x: 698, y: 1466}
+      - {x: 1218, y: 1466}
+      - {x: 1254, y: 1508}
+      - {x: 1254, y: 1570}
+      - {x: 1252, y: 1576}
+    - - {x: -1350, y: 1670}
+      - {x: -1350, y: 1498}
+      - {x: -814, y: 1498}
+      - {x: -794, y: 1566}
+      - {x: -794, y: 1624}
+      - {x: -826, y: 1670}
+    - - {x: -326, y: 1734}
+      - {x: -326, y: 1562}
+      - {x: 206, y: 1562}
+      - {x: 230, y: 1618}
+      - {x: 230, y: 1692}
+      - {x: 174, y: 1734}
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      oNdL0D2 - Imgur_0: -1613551688
+      oNdL0D2 - Imgur_1: -719447075
+      oNdL0D2 - Imgur_10: -647738287
+      oNdL0D2 - Imgur_11: -1584534325
+      oNdL0D2 - Imgur_2: 1742833490
+      oNdL0D2 - Imgur_3: 844225294
+      oNdL0D2 - Imgur_4: -185396627
+      oNdL0D2 - Imgur_5: -35477445
+      oNdL0D2 - Imgur_6: -929896249
+      oNdL0D2 - Imgur_7: -1261176269
+      oNdL0D2 - Imgur_8: -1291941667
+      oNdL0D2 - Imgur_9: -1845884897
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
